@@ -267,11 +267,11 @@
 }
 
 .header-upper .upper-inner .logo-box .logo{
-	background: var(--theme-color);
+	/* background: var(--theme-color); */
 }
 
 .header-upper .upper-inner .logo-box .logo:before{
-	background: var(--theme-color);
+	/* background: var(--theme-color); */
 }
 
 .header-upper .upper-inner .info-list li .icon-box{

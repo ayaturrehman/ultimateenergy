@@ -722,7 +722,7 @@ img {
 }
 
 .main-header .logo-box .logo img{
-  width: 100%;
+  width: 150px !important;
 }
 
 .main-header .nav-right{
@@ -4002,7 +4002,8 @@ div#mCSB_1_container{
 .header-upper .upper-inner .logo-box .logo{
   position: relative;
   display: block;
-  padding: 27px 44px 33px 40px;
+  padding-left: 1rem;
+  /* padding: 27px 44px 33px 40px; */
   max-width: 100%;
 }
 
